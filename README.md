@@ -20,7 +20,7 @@ To access the methods stored in the base class GenericMotorCLI class, add a “T
 A similar process would be used for the GenericAdvancedMotorCLI class methods.
 
 ## Requirement
-DLLs need to be stored same path.
+DLLs need to be stored at same path.
 
 
 <img src="https://user-images.githubusercontent.com/30459885/41888802-b36ea7fa-78f6-11e8-8710-c48add008e68.png">
