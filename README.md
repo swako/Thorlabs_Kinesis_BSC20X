@@ -1,4 +1,4 @@
-# Thorlabs_Kinesis_BSC20X_.NET Framework
+# Thorlabs_Kinesis_BSC20X_.NET Framework_Labview
 
 BSC20X
 Labview
